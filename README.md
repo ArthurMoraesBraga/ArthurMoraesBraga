@@ -122,8 +122,8 @@ Tenho interesse especial pela área de cibersegurança e pretendo direcionar meu
 | Categoria | Tecnologias |
 |:---:|:---:|
 | Linguagens | <img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Java, Python, HTML, CSS e JavaScript"/> |
-| Frameworks e templates| <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="48"/> <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" alt="Thymeleaf" width="48"/> |
-| Ferramentas | ![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode) |
+| Frameworks e templates | <img src="https://skillicons.dev/icons?i=spring,react" alt="Spring Boot, React e Bootstrap"/> <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" alt="Thymeleaf" width="48"/> |
+| Ferramentas | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma"/> <img src="https://cdn.simpleicons.org/miro/FFD02F" alt="Miro" width="48"/> |
 
 </div>
 
