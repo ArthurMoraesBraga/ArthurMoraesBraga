@@ -12,7 +12,7 @@
 
 
 <td>
-  <a href="https://github.com/arthurmbaam-stack">
+  <a href="https://github.com/ArthurMoraesBraga">
     <img src="https://cdn.simpleicons.org/github/EB0F0F" width="50" height="50"/>
   </a>
 </td>
@@ -150,10 +150,10 @@ Tenho interesse especial pela área de cibersegurança e pretendo direcionar meu
 <tr>
 <td>
 <!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=20" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=ArthurMoraesBraga&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=20" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" /></a>
 </td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arthurmbaam-stack&layout=donut-vertical&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=ArthurMoraesBraga&layout=donut-vertical&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=10" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy" />
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ Tenho interesse especial pela área de cibersegurança e pretendo direcionar meu
 </td>
 <td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/arthurmbaam-stack" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=5r9ikkteo3uc2vuiovjw4fo29&text_color=ca0c0c&accent_color=d90d0d&logo_color=f02400"/></a>
+<a href="https://www.last.fm/pt/user/ArthurMoraesBraga" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=5r9ikkteo3uc2vuiovjw4fo29&text_color=ca0c0c&accent_color=d90d0d&logo_color=f02400"/></a>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,5 @@ Tenho interesse especial pela área de cibersegurança e pretendo direcionar meu
 </div>
 
 <!--
-**arthurmbaam-stack/arthurmbaam-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 n fact: ...
 -->
