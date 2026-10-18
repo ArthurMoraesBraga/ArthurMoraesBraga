@@ -69,7 +69,9 @@
   Conheça meus projetos, minha trajetória e minhas conquistas no
   <a href="https://arthurmoraes.dev"><strong>meu portfólio profissional</strong></a>.
 </p>
+
 -----
+
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
 
 <div align="justify">
