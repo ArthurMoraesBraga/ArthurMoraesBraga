@@ -57,13 +57,18 @@
 </table>
 </div>
 
+
+
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
 </div>
-
+<p align="center">
+  Conheça meus projetos, minha trajetória e minhas conquistas no
+  <a href="https://arthurmoraes.dev"><strong>meu portfólio profissional</strong></a>.
+</p>
 -----
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Sobre mim:
 
