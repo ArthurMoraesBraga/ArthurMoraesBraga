@@ -131,8 +131,10 @@ Tenho interesse especial pela área de cibersegurança e pretendo direcionar meu
 | Categoria | Tecnologias |
 |:---:|:---:|
 | Linguagens | <img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Java, Python, HTML, CSS e JavaScript"/> |
-| Frameworks e templates | <img src="https://skillicons.dev/icons?i=spring,react,vite" alt="Spring Boot, React, Vite"/> <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" alt="Thymeleaf" width="48"/> |
-| Ferramentas | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma"/> <img src="https://cdn.simpleicons.org/miro/FFD02F" alt="Miro" width="48"/> |
+| Backend | <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/> <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" alt="Thymeleaf" width="48"/> |
+| Frontend | <img src="https://skillicons.dev/icons?i=react,vite" alt="React e Vite"/> |
+| Banco de dados e BaaS | <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="PostgreSQL e Supabase"/> |
+| Ferramentas | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code e Figma"/> <img src="https://cdn.simpleicons.org/miro/FFD02F" alt="Miro" width="48"/> |
 
 </div>
 
