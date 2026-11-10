@@ -134,7 +134,7 @@ Tenho interesse especial pela área de cibersegurança e pretendo direcionar meu
 | Backend | <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/> <img src="https://cdn.simpleicons.org/thymeleaf/005F0F" alt="Thymeleaf" width="48"/> |
 | Frontend | <img src="https://skillicons.dev/icons?i=react,vite" alt="React e Vite"/> |
 | Banco de dados e BaaS | <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="PostgreSQL e Supabase"/> |
-| Ferramentas | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code e Figma"/> <img src="https://cdn.simpleicons.org/miro/FFD02F" alt="Miro" width="48"/> |
+| Ferramentas e Deploy | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" alt="Git, GitHub, VS Code, Figma e Vercel"/> <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48"/> <img src="https://cdn.simpleicons.org/miro/FFD02F" alt="Miro" width="48"/> |
 
 </div>
 
